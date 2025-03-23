@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "Nodejs Crash Course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalalalafish/nodejs-practices.git"
+  },
+  "author": "Yujie Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lalalalafish/nodejs-practices/issues"
+  },
+  "homepage": "https://github.com/lalalalafish/nodejs-practices#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
